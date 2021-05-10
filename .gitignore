@@ -1,1 +1,5 @@
 NDVI,NDRE,5_Band/
+training/NDVI/
+training/NIR/
+training/RGB/
+training/train_full_color/
